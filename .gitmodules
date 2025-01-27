@@ -1,0 +1,4 @@
+[submodule "d0pp3lgang3r/public"]
+	path = d0pp3lgang3r/public
+	url = https://github.com/D0pp3lgang3r/d0pp3lgang3r.github.io.git
+	branch = main
